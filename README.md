@@ -32,12 +32,12 @@ Before you begin, make sure you have the following installed:
 ```
 
 ## Installation
-You can download the [**repository**](https://github.com/Doc-SLAV/boolfamily/archive/refs/heads/main.zip) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/Doc-SLAV/boolfamilySLAV/archive/refs/heads/main.zip) by cloning it to your system and installing the necessary dependencies:
 
 # Linux manual installation
 ```shell
-git clone https://github.com/Doc-SLAV/boolfamily.git
-cd boolfamily
+git clone https://github.com/Doc-SLAV/boolfamilySLAV.git
+cd boolfamilySLAV
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
@@ -47,8 +47,8 @@ python3 bot.py
 
 # Windows manual installation
 ```shell
-git clone https://github.com/Doc-SLAV/boolfamily.git
-cd boolfamily
+git clone https://github.com/Doc-SLAV/boolfamilySLAV.git
+cd boolfamilySLAV
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
